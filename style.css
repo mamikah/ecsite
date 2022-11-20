@@ -1,0 +1,21 @@
+body {
+    background-color:#473B94;
+    color: white;
+    font-family: "Meiryo;
+}
+
+h1{
+    text-shadow: 2px 2px 5px #C0C0C0;
+}
+.col-1 {
+    display: inline-block;
+    width: 100px;
+}
+.col-2 {
+    display: inline-block;
+    width: 100px;
+}
+
+
+/*shift + F5で強制更新*/
+/*F12でstyleseet確認して更新されていなかったらする*/
